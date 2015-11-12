@@ -1,0 +1,8 @@
+c:\users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\bin\Debug\vk_downloader.exe.config
+C:\Users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\bin\Debug\vk_downloader.exe
+C:\Users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\bin\Debug\vk_downloader.pdb
+C:\Users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\bin\Debug\Json.dll
+C:\Users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\bin\Debug\Json.pdb
+C:\Users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\obj\Debug\vk_downloader.csprojResolveAssemblyReference.cache
+C:\Users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\obj\Debug\vk_downloader.exe
+C:\Users\pavel.dmitriiev\documents\visual studio 2015\Projects\vk_downloader\vk_downloader\obj\Debug\vk_downloader.pdb

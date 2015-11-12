@@ -1,0 +1,12 @@
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\bin\Debug\VkformsLoader.exe.config
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\bin\Debug\VkformsLoader.exe
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\bin\Debug\VkformsLoader.pdb
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\obj\Debug\VkformsLoader.csprojResolveAssemblyReference.cache
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\obj\Debug\VkformsLoader.Form1.resources
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\obj\Debug\VkformsLoader.Properties.Resources.resources
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\obj\Debug\VkformsLoader.csproj.GenerateResource.Cache
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\obj\Debug\VkformsLoader.exe
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\obj\Debug\VkformsLoader.pdb
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pavel.dmitriiev\Documents\Visual Studio 2015\Projects\vk_downloader\VkformsLoader\bin\Debug\Newtonsoft.Json.xml
